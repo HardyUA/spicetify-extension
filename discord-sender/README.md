@@ -1,0 +1,7 @@
+{
+  "name": "Discord Sender",
+  "description": "Spicetify extension to send current Spotify tracks or playlists to your Discord channel using a customisable bot command.",
+  "main": "discord-sender.js",
+  "readme": "README.md",
+  "tags": ["discord", "spotify", "integration", "bot"]
+} 
