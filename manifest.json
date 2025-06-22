@@ -1,0 +1,15 @@
+{
+  "name": "SimFinder",
+  "description": "Spicetify extension to search for similar songs and create playlists based on various Spotify audio characteristics (danceability, energy, valence, tempo, popularity, genres, tonality) manually or automatically.",
+  "main": "simfinder-button.js",
+  "readme": "README.md",
+  "tags": ["spotify", "music", "playlist", "recommendations", "audio-features"]
+} 
+
+{
+  "name": "Discord Sender",
+  "description": "Spicetify extension to send current Spotify tracks or playlists to your Discord channel using a customisable bot command.",
+  "main": "discord-sender.js",
+  "readme": "README.md",
+  "tags": ["discord", "spotify", "integration", "bot"]
+} 
