@@ -26,8 +26,8 @@ A collection of Spicetify extensions to enhance your Spotify experience by integ
 
 2.  **Apply Spicetify:**
     Open your terminal and run:
-spicetify config extensions discord-sender.js|simfinder-button.js
-spicetify apply
+- spicetify config extensions discord-sender.js|simfinder-button.js
+- spicetify apply
 
 
 ## Usage
