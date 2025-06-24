@@ -10,6 +10,7 @@ A collection of Spicetify extensions to enhance your Spotify experience by integ
 *   Configurable bot token, channel ID, and command prefix.
 *   Context menu item for tracks and playlists.
 *   Settings button in Spicetify's top bar.
+*   Ability to send multiple tracks by selecting them via shift or sending an entire playlist
 
 ### SimFinder
 
@@ -25,10 +26,9 @@ A collection of Spicetify extensions to enhance your Spotify experience by integ
 
 2.  **Apply Spicetify:**
     Open your terminal and run:
-    ```bash
 spicetify config extensions discord-sender.js|simfinder-button.js
 spicetify apply
-    ```
+
 
 ## Usage
 
